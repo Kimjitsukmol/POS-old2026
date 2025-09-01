@@ -204,13 +204,6 @@ document.addEventListener("keydown", function (event) {
 //------------------กดปุ่ม+เพื่อเรียก pop up ชำระสินค้าขึ้นมา---------------------------------
 
 
-
-//---------------------Open to produceList.html----------------------------------
-const productList = document.getElementById("productList");
-productList.addEventListener("click", function () {
-    // window.location.href = "productList.html";
-});
-
 //--------------------open pop up สรุปยอดขาย----------------------------------------
 
 const BTNSummarySales = document.getElementById("SummarySales");
